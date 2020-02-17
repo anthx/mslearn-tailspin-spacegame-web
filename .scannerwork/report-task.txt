@@ -1,0 +1,7 @@
+organization=anthx
+projectKey=anthx_mslearn-tailspin-spacegame-web
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.4669
+dashboardUrl=https://sonarcloud.io/dashboard?id=anthx_mslearn-tailspin-spacegame-web
+ceTaskId=AXBQNRCHD5cWblOM1oDB
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXBQNRCHD5cWblOM1oDB
